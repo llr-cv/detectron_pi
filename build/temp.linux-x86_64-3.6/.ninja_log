@@ -1,5 +1,0 @@
-# ninja log v5
-4	3753	1635323836	/root/detectron2_repo/build/temp.linux-x86_64-3.6/root/detectron2_repo/detectron2/layers/csrc/cuda_version.o	e30323fd28d4a28a
-1	8825	1635323841	/root/detectron2_repo/build/temp.linux-x86_64-3.6/root/detectron2_repo/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	220476154ed61183
-2	9802	1635323842	/root/detectron2_repo/build/temp.linux-x86_64-3.6/root/detectron2_repo/detectron2/layers/csrc/cocoeval/cocoeval.o	ff014541032d6b2a
-1	10669	1635323843	/root/detectron2_repo/build/temp.linux-x86_64-3.6/root/detectron2_repo/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	99797d598a407d4f
